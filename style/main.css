@@ -1,0 +1,25 @@
+.container {
+	margin-top: 15px;
+}
+
+nav li{
+	display: inline;
+	text-decoration: none;
+	margin-top: 24px;
+	margin-right: 1vw;
+}
+
+nav a {
+	text-decoration: none;
+	color: grey;
+}
+
+nav {
+	margin: 13px 0;
+	padding-left: 2vw;
+}
+
+a:hover {
+	text-decoration: none;
+	//background-color: blue;
+}
