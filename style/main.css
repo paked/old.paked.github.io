@@ -14,11 +14,16 @@ header h1 {
 	font-weight: 500;
 }
 
+header .container {
+	margin-bottom: 4vw;
+	border-bottom: 1px lightgrey solid;
+}
+
 nav li{
 	display: inline;
 	text-decoration: none;
 	margin-top: 24px;
-	margin-right: 1vw;
+	margin-right: 4vw;
 }
 
 nav a {
