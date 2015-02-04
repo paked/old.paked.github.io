@@ -38,6 +38,16 @@ nav {
 	padding-left: 2vw;
 }
 
+h1 .projects > .title, a {
+	text-decoration: none;
+	color: #222;
+}
+
+h1 .projects > .title, a:hover {
+	text-decoration: none;
+	color: #444;
+}
+
 a:hover {
 	text-decoration: none;
 	//background-color: blue;
