@@ -1,5 +1,5 @@
 body {
-	font-family: 'Helvetica'
+	font-family: 'Helvetica';
 }
 
 .container {
@@ -51,7 +51,7 @@ a:hover {
 	margin-bottom: 4vw;
 }
 
-.project .capture {
+.capture {
 	background-color: #5745FF;
 	border-radius: 6px;
 	width: 100%;
