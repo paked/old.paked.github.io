@@ -83,6 +83,11 @@ a:hover {
 }
 
 .break {
-	margin-bottom: 2vw;
+	margin-bottom: 3vw;
+	margin-top: 2vw;
 	border-bottom: 1px lightgrey solid;
+}
+
+#me_photo {
+	margin-bottom: 2vw;
 }
