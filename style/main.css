@@ -76,3 +76,13 @@ a:hover {
 .project .summary a {
 	/*margin-right: 3vw;*/
 }
+
+.center {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.break {
+	margin-bottom: 2vw;
+	border-bottom: 1px lightgrey solid;
+}
